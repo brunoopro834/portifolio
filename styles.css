@@ -9,3 +9,8 @@ box-sizing: border-box;/*cria uma caixa invisível para o corpo do site*/
     background-color: aqua; /* cor do fundo do topo do site*/
     height: 15vh; /* tamanho do topo do site*/
 }
+
+ .conteudo{
+    background-color: whitesmoke;
+    height: 100vh;
+ }
