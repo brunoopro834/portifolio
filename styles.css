@@ -3,3 +3,9 @@
 padding: 0; /*deixa amargem superior e inferior nula*/
 box-sizing: border-box;/*cria uma caixa invisível para o corpo do site*/
 }
+
+
+.topo{
+    background-color: aqua; /* cor do fundo do topo do site*/
+    height: 15vh; /* tamanho do topo do site*/
+}
