@@ -1,0 +1,5 @@
+*{
+    margin: 0; /*deixa a margem esqueda e direita nula*/
+padding: 0; /*deixa amargem superior e inferior nula*/
+box-sizing: border-box;/*cria uma caixa invisível para o corpo do site*/
+}
