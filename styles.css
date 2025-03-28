@@ -12,4 +12,5 @@ box-sizing: border-box;/*cria uma caixa invisível para o corpo do site*/
 
 .conteudo{
     height: 85vh;
+    background-color: darkturquoise;
 }
